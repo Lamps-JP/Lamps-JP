@@ -1,12 +1,4 @@
-## About Me
 
-👋 Hi there!  
-I’m a **developer in learning**, currently exploring and improving my skills in programming and software development.  
-I have a foundation in **Python**, and I’m currently learning **C#** to expand my knowledge and experience.  
-
-🚀 Always open to new challenges, collaboration, and opportunities to improve.  
-
-##
 
  <div align="center"></div>
 

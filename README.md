@@ -15,7 +15,7 @@
  <a href = "joao.rpedrorocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="www.linkedin.com/in/joão-pedro-rocha-oliveira-ba7b911a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  </div>
+ 
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lamps-JP/Lamps-JP/output/pacman-contribution-graph-dark.svg">
@@ -24,6 +24,7 @@
 </picture>
 
 ###
+</div>
            
            
           

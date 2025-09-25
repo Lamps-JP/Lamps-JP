@@ -16,7 +16,7 @@
     <a href="www.linkedin.com/in/joão-pedro-rocha-oliveira-ba7b911a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  
-
+##
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lamps-JP/Lamps-JP/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lamps-JP/Lamps-JP/output/pacman-contribution-graph.svg">

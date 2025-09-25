@@ -2,7 +2,17 @@
 
  <div align="center"></div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroRocha&show_icons=true&theme=gotham&show_icons=true)](https://github.com/Lamps-JP/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lamps-JP&show_icons=true&theme=gotham"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lamps-JP&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aLamps-JP&show_icons=true" />
+</picture>
 
  <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
